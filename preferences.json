@@ -1,0 +1,18 @@
+{
+	"Film":{
+		"name":"Lion King",
+		"TV series":{
+			"name":"Tom and Jerry",
+			"Food":{
+				"name":"Borsh",
+				"Time of the year":{
+					"name":"summer",
+					"Country":{
+						"name":"UK"
+					}
+				}
+			}
+		}
+	}
+}
+
